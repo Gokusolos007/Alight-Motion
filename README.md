@@ -27,3 +27,6 @@ A Modified version of alight motion
    
    • Import Project More than 5mb 🟠
    
+# Implement 
+
+   • if you wanna Implement 𝗔𝗹𝗶𝗴𝗵𝘁 𝗠𝗼𝗶𝘁𝗼𝗻 in your own channel or anything else, do not forget to credit us!
