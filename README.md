@@ -40,3 +40,9 @@ A Modified version of alight motion
    • Make sure you backed up all your recent Projects that you need before uninstalling 𝗔𝗹𝗶𝗴𝗵𝘁 𝗠𝗼𝘁𝗶𝗼𝗻
 
    • also do not update 𝗔𝗹𝗶𝗴𝗵𝘁 𝗠𝗼𝘁𝗶𝗼𝗻 from play store
+
+# Installation 
+
+   • Uninstall any other 𝗔𝗹𝗶𝗴𝗵𝘁 𝗠𝗼𝘁𝗶𝗼𝗻 that you're using
+
+   • Download the apk from Releases Page
