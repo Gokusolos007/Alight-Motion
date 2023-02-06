@@ -14,6 +14,16 @@ A Modified version of alight motion
 # Features
 
    • Advanced Easing 🟢
+  
    • Future Members-Only Features 🟠
+  
    • Membership Effect Pack 🟢
+   
+   • Project Package Sharing 🟢
+   
+   • Remove Ads 🟢 
+   
+   • Import & Export XML 🟢
+   
+   • Import Project More than 5mb 🟠
    
