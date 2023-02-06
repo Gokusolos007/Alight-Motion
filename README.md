@@ -47,7 +47,7 @@ A Modified version of alight motion
 
    • Uninstall any other 𝗔𝗹𝗶𝗴𝗵𝘁 𝗠𝗼𝘁𝗶𝗼𝗻 that you're using
 
-   • Download the apk from Releases Page
+   • Download the apk from [Releases Page](https://github.com/proto15/Alight-Motion/releases)
 
 # Credits
    • [Proto](http://t.me/Est3l14)
