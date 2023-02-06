@@ -5,10 +5,15 @@ A Modified version of alight motion
 
 # Status
 
-• 🟢 Working
+   • 🟢 Working
 
-• 🟠 Working or maybe won't work  ( on some devices )
+   • 🟠 Working or maybe won't work  ( on some devices )
 
-• 🔴 Not Working
+   • 🔴 Not Working
 
 # Features
+
+   • Advanced Easing 🟢
+   • Future Members-Only Features 🟠
+   • Membership Effect Pack 🟢
+   
