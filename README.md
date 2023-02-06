@@ -17,7 +17,7 @@ A Modified version of alight motion
 
    • Advanced Easing 🟢
   
-   • Future Members-Only Features 🟠
+   • Future Members-Only Features 🟢
   
    • Membership Effect Pack 🟢
    
@@ -27,7 +27,7 @@ A Modified version of alight motion
    
    • Import & Export XML 🟢
    
-   • Import Project More than 5mb 🟠
+   • Import Project More than 5mb 🟢
    
 # Implement 
 
@@ -35,7 +35,7 @@ A Modified version of alight motion
 
 # Prerequisites 
 
-   • Expected to work on Android 13 but due to android 13 restrictions you may face bug or even crash.
+   • Android 6-12, Also work on android 13.
 
 𝗗𝗶𝘀𝗰𝗹𝗮𝗶𝗺𝗲𝗿
 
